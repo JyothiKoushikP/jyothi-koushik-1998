@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services, DevOps Technologies**
 
-- 💬 Ask me about **Android and IOS Application Development, Cloud Services, Microservices, DevOps**
+- 💬 Ask me about **Android and IOS Application Development, Full-Stack Development, Cloud Services, Microservices, DevOps**
 
 - 📫 How to reach me **JyothiKoushik1998@gmail.com**
 
