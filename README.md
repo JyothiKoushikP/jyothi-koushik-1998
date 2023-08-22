@@ -3,11 +3,11 @@
 <h3 align="center">Passionate computer science student pursuing a Master's degree at Stony Brook University, eager to expand knowledge and contribute to the world of technology</h3>
 <img align="right" alt="Coding" width="450" src="https://i.gifer.com/RfmR.gif">
 
-- 🌱 I’m currently learning **Amazon Web Services, DevOps Technologies**
+- 🌱 I’m currently learning **Amazon Web Services, DevOps Technologies, Vagrant**
 
 - 💬 Ask me about **Android and IOS Application Development, Full-Stack Development, Cloud Services, Microservices, DevOps**
 
-- 📫 How to reach me **JyothiKoushik1998@gmail.com**
+- 📫 How to reach me **jpaladugu@cs.stonybrook.edu**
 
 <img align="right" alt="Coding" width="450" src="https://i.gifer.com/RfmR.gif">
 <h3 align="left">Connect with me:</h3>
