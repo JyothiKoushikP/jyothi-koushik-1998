@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Android and IOS Application Development, Full-Stack Development, Cloud Services, Microservices, DevOps**
 
-- 📫 How to reach me **jpaladugu@cs.stonybrook.edu**
+- 📫 How to reach me:  **jpaladugu@cs.stonybrook.edu**
 
 <img align="right" alt="Coding" width="450" src="https://i.gifer.com/RfmR.gif">
 <h3 align="left">Connect with me:</h3>
